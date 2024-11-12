@@ -38,3 +38,20 @@
     color:#1090CB;
     border-radius:5px
 }
+
+
+.icon{
+    color:rgba(8, 211, 187, 1);
+}
+
+
+.view{
+    font-size:10px;
+    color:white;
+    border:none;
+    background:#1090CB;
+    border-radius:5px;
+    align-content: center;
+    margin-left:45%;
+}
+
