@@ -18,3 +18,23 @@
     background:#1090CB;
     border-radius:5px;
 }
+
+/*banner*/
+#banner{
+    margin-top:7%;
+    font-weight: bolder;
+    background-color: rgba(16,144,203,0.1);
+}
+
+.contact-us {
+    font-size:10px;
+    color:white;
+    border:none;
+    background:#1090CB;
+    border-radius:5px;
+}
+.view-more {
+    font-size:10px;
+    color:#1090CB;
+    border-radius:5px
+}
