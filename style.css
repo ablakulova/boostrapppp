@@ -21,11 +21,12 @@
 
 /*banner*/
 #banner{
-    margin-top:7%;
     font-weight: bolder;
     background-color: rgba(16,144,203,0.1);
 }
-
+.mobile{
+    margin-top:15%;
+}
 .contact-us {
     font-size:10px;
     color:white;
@@ -55,3 +56,16 @@
     margin-left:45%;
 }
 
+#last{
+    background-color: rgba(16,144,203,0.1);
+}
+.lorem{
+    margin-top:10%;
+}
+
+.submit{
+    font-size: 12px;
+    background-color: #000;
+    color: white;
+    border-radius: 10px;
+}
